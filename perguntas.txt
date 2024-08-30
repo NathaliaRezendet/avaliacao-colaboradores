@@ -1,0 +1,54 @@
+Manutenção
+O colaborador conseguiu identificar corretamente os problemas?
+O colaborador solucionou os problemas de forma eficiente?
+O tempo de resposta do colaborador foi satisfatório?
+A qualidade dos reparos foi adequada e duradoura?
+O colaborador seguiu todos os procedimentos de segurança?
+Construção
+O colaborador seguiu as especificações técnicas durante a construção?
+A infraestrutura construída atende aos padrões de qualidade exigidos?
+O colaborador completou a construção dentro do prazo estabelecido?
+A comunicação do colaborador com a equipe foi clara e eficaz?
+O colaborador manteve a área de trabalho organizada e segura?
+Downgrade
+O colaborador executou o downgrade sem causar interrupções no serviço?
+O colaborador informou corretamente ao cliente sobre as mudanças no serviço?
+O colaborador seguiu os procedimentos necessários para realizar o downgrade?
+A configuração após o downgrade foi verificada e está funcionando corretamente?
+O colaborador registrou corretamente o downgrade no sistema?
+Instalação
+O colaborador instalou o equipamento de forma adequada e segura?
+A instalação foi realizada dentro do prazo previsto?
+O colaborador explicou ao cliente como utilizar o equipamento instalado?
+O colaborador verificou se todos os serviços estavam funcionando corretamente após a instalação?
+O colaborador deixou o local de instalação limpo e organizado?
+Mudança de Endereço
+O colaborador executou a mudança de endereço sem causar interrupções no serviço?
+O colaborador confirmou que todos os equipamentos estavam funcionando corretamente no novo endereço?
+O colaborador comunicou corretamente ao cliente sobre a mudança?
+A mudança foi realizada dentro do prazo acordado?
+O colaborador seguiu todos os procedimentos de transferência de endereço?
+Visita Técnica
+O colaborador chegou ao local dentro do horário agendado?
+O colaborador foi capaz de resolver o problema identificado durante a visita?
+O colaborador comunicou de forma clara e cortês com o cliente?
+O colaborador seguiu os procedimentos de diagnóstico adequados?
+O colaborador registrou corretamente as informações da visita no sistema?
+Reinstalação
+O colaborador reinstalou o equipamento de forma correta e sem falhas?
+A reinstalação foi concluída dentro do prazo?
+O colaborador verificou se todos os serviços estavam funcionando após a reinstalação?
+O colaborador explicou ao cliente como utilizar o equipamento após a reinstalação?
+O colaborador seguiu todos os procedimentos de reinstalação?
+Retirada
+O colaborador removeu o equipamento sem causar danos ao local?
+A retirada foi realizada dentro do prazo acordado?
+O colaborador informou ao cliente sobre a retirada e os próximos passos?
+O colaborador verificou se todos os equipamentos foram retirados corretamente?
+O colaborador deixou o local limpo e sem resíduos após a retirada?
+Upgrade
+O colaborador realizou o upgrade sem causar interrupções no serviço?
+O colaborador explicou ao cliente as melhorias feitas com o upgrade?
+O colaborador verificou se todos os serviços estavam funcionando corretamente após o upgrade?
+O upgrade foi realizado dentro do prazo previsto?
+O colaborador seguiu todos os procedimentos necessários para realizar o upgrade?
