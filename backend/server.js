@@ -51,6 +51,7 @@ db.connect((err) => {
   console.log('Conectado ao banco de dados MySQL.');
 });
 
+
 // Rotas
 const loginRoutes = require('./routes/loginRoutes');
 const loginRelatorioInicioRoutes = require('./routes/loginRelatorioInicioRoutes');

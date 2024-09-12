@@ -1,5 +1,6 @@
 const mysql = require('mysql2');
 const db = require('../config/db');
+const Pergunta = require('../models/Pergunta');
 
 exports.getPerguntasPorServico = (req, res) => {
   const servico_id = req.params.id;
@@ -12,4 +13,13 @@ exports.getPerguntasPorServico = (req, res) => {
     }
     res.status(200).json(results);
   });
+};
+
+exports.getPerguntas = async (req, res) => {
+  try {
+    const perguntas = await Pergunta.findAll();
+    res.json(perguntas);
+  } catch (error) {
+    res.status(500).json({ error: 'Erro ao buscar perguntas' });
+  }
 };

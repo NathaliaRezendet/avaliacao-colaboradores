@@ -1,6 +1,9 @@
 const express = require('express');
 const router = express.Router(); // Certifique-se de que o router está definido aqui
 const db = require('../config/db'); // Supondo que você tenha um arquivo de configuração para o db
+// const perguntaController = require('../controllers/perguntaController');
+
+// router.get('/perguntas', perguntaController.getPerguntas);
 
 // Endpoint para obter perguntas
 router.get('/:servicoId', (req, res) => {
